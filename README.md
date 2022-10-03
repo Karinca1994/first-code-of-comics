@@ -1,1 +1,3 @@
 # first-code-of-comics
+
+so this was my starting project before i struggle entering the images to the app, here i tried to use async method to upload the api to my app...
